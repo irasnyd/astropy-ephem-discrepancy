@@ -1,0 +1,6 @@
+jupyter
+astropy
+ephem
+jplephem
+fitsio
+python-dateutil
